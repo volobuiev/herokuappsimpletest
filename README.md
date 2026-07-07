@@ -27,7 +27,7 @@ The test configuration and test scenarios are separated for better maintainabili
    ```bash
    pip install pytest selenium
    or
-   pip install requirements.txt
+   pip install -r requirements.txt
 
 Roadmap & Refactoring Plans (To-Do)
 To ensure project scalability and code readability, the following architectural improvements are planned:
